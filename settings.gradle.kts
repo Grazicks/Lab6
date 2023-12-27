@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "mob_app_lab6.1"
+rootProject.name = "Lab6"
 include(":app")
  
